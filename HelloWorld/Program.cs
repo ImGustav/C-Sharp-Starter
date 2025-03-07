@@ -13,5 +13,10 @@ class Program
         impala.Desligar();
 
         harley.acelerar();     
+
+        var name = "miamoto";
+
+        string Vectra;
+        var apolo; 
     }
 }

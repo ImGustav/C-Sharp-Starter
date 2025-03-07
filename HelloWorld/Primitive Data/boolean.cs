@@ -2,7 +2,7 @@
 
 internal class boolean
 {
-    static void Main()
+    static void study()
     {
         bool enable = true;
         bool disable = false;
