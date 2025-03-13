@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\primitive data\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\primitive data\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\colections\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\colections\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\primitive data\\var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\primitive data\\var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\primitive data\\null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\primitive data\\null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\primitive data\\texttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\primitive data\\texttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|c:\\users\\star lord\\source\\repos\\helloworld\\helloworld\\colections\\hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB0B9AB-EF06-4A01-8523-1A6A4F792FF4}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\colections\\hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,64 +22,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "var.cs",
-              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\var.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\Primitive Data\\var.cs",
-              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\var.cs",
-              "RelativeToolTip": "HelloWorld\\Primitive Data\\var.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "hashSet.cs",
+              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Colections\\hashSet.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Colections\\hashSet.cs",
+              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Colections\\hashSet.cs",
+              "RelativeToolTip": "HelloWorld\\Colections\\hashSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:51:39.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dateTime.cs",
-              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\dateTime.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\Primitive Data\\dateTime.cs",
-              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\dateTime.cs",
-              "RelativeToolTip": "HelloWorld\\Primitive Data\\dateTime.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:49:19.998Z",
+              "WhenOpened": "2025-03-13T20:10:40.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "textTypes.cs",
-              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\textTypes.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\Primitive Data\\textTypes.cs",
-              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\textTypes.cs",
-              "RelativeToolTip": "HelloWorld\\Primitive Data\\textTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Colections\\dictionary.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Colections\\dictionary.cs",
+              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Colections\\dictionary.cs",
+              "RelativeToolTip": "HelloWorld\\Colections\\dictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:38:53.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "null.cs",
-              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\null.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\Primitive Data\\null.cs",
-              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\Primitive Data\\null.cs",
-              "RelativeToolTip": "HelloWorld\\Primitive Data\\null.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:30:25.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "program.cs",
-              "DocumentMoniker": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\program.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\program.cs",
-              "ToolTip": "C:\\Users\\Star Lord\\source\\repos\\HelloWorld\\HelloWorld\\program.cs",
-              "RelativeToolTip": "HelloWorld\\program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:23:04.617Z"
+              "WhenOpened": "2025-03-13T18:47:10.779Z",
+              "EditorCaption": ""
             }
           ]
         }
